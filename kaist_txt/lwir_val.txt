@@ -1,0 +1,684 @@
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V000_I01229.jpg 165,211,185,265,0 181,212,206,266,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V000_I01249.jpg 115,209,143,279,0 139,212,168,279,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V000_I01257.jpg 93,209,125,286,0 123,213,153,287,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V000_I01299.jpg 412,214,434,266,0 331,215,351,263,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V000_I01331.jpg 381,224,401,289,0 507,224,537,290,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V000_I01337.jpg 395,225,415,295,0 545,226,580,304,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V000_I01417.jpg 498,207,544,307,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V000_I01439.jpg 547,213,603,338,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V000_I01487.jpg 401,209,433,277,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V000_I01501.jpg 392,211,428,276,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V000_I01505.jpg 393,213,428,281,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V000_I01513.jpg 393,217,428,292,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V000_I01515.jpg 393,218,429,294,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V000_I01531.jpg 405,220,451,315,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V000_I01545.jpg 427,226,486,344,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V000_I01633.jpg 233,222,259,272,0 153,211,189,283,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V000_I01651.jpg 120,210,156,294,0 208,210,240,281,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V000_I01701.jpg 38,212,130,391,0 6,199,58,333,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V000_I01757.jpg 448,210,485,280,0 372,215,406,285,2
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V000_I01775.jpg 375,212,413,290,2 497,209,539,291,0 567,173,610,266,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V000_I01793.jpg 561,196,603,294,0 383,214,427,302,2 603,190,638,289,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V001_I00483.jpg 203,200,225,247,0 173,194,199,248,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V001_I00505.jpg 181,208,207,263,0 145,196,174,263,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V001_I00529.jpg 133,188,169,265,0 112,179,148,260,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V001_I00531.jpg 130,191,165,268,0 107,181,144,265,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V001_I00535.jpg 120,183,155,260,0 94,173,132,260,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V001_I00539.jpg 103,183,141,266,0 79,172,118,262,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V001_I00541.jpg 93,184,132,269,0 69,174,110,267,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V001_I00553.jpg 24,195,74,300,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V001_I01085.jpg 94,204,124,257,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V001_I01095.jpg 76,200,108,259,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V001_I01659.jpg 122,213,151,277,0 202,215,223,259,0 174,213,200,257,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V001_I01695.jpg 158,218,183,270,0 94,219,117,277,0 112,219,152,276,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V001_I01697.jpg 155,217,180,273,0 88,219,111,278,0 105,219,148,277,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V001_I01707.jpg 132,214,163,284,0 49,217,129,280,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V001_I01967.jpg 47,227,70,279,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V001_I01969.jpg 39,226,63,281,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V001_I01973.jpg 25,225,51,285,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V001_I01977.jpg 11,224,38,286,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V001_I02505.jpg 28,205,67,295,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V001_I02653.jpg 208,216,230,266,0 197,219,217,260,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V001_I02655.jpg 207,216,229,267,0 197,218,217,260,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V001_I02659.jpg 206,215,229,268,0 196,218,216,259,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V001_I02673.jpg 224,211,251,273,0 213,218,235,266,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V001_I02679.jpg 242,210,271,275,0 230,218,253,271,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V001_I02787.jpg 373,217,399,274,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V002_I00175.jpg 529,212,557,263,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V002_I00189.jpg 510,208,537,273,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V002_I00193.jpg 511,208,539,277,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V002_I00199.jpg 514,210,545,285,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V002_I00215.jpg 534,219,572,308,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V002_I00223.jpg 559,220,601,324,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V002_I00363.jpg 456,205,501,260,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V002_I00383.jpg 326,219,369,270,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V002_I00399.jpg 285,217,322,276,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V002_I00403.jpg 282,217,317,278,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V002_I00413.jpg 287,217,323,284,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V002_I00457.jpg 449,213,489,300,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V002_I00479.jpg 528,223,577,333,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V002_I01181.jpg 95,232,130,283,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V002_I01191.jpg 109,176,144,228,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V002_I01253.jpg 41,200,93,285,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V002_I02153.jpg 524,223,569,314,0 548,221,584,314,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V002_I02157.jpg 496,221,545,318,0 519,220,558,317,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V002_I02187.jpg 56,208,155,372,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V002_I02351.jpg 482,210,518,268,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V002_I02361.jpg 466,209,504,271,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V002_I02375.jpg 370,207,408,272,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V002_I02379.jpg 330,210,368,276,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V003_I00403.jpg 474,207,509,296,0 505,206,536,294,0 431,218,460,266,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V003_I00415.jpg 531,205,575,320,0 567,205,605,320,0 462,218,485,275,0 449,217,472,271,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V003_I00425.jpg 494,209,520,280,0 478,211,506,279,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V003_I00613.jpg 143,216,170,267,1 221,214,245,264,0 187,223,212,267,0 480,230,507,292,0 508,221,528,273,0 434,219,455,260,0 460,216,480,254,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V003_I00619.jpg 129,217,157,270,1 207,214,231,265,0 174,223,199,268,0 471,230,499,294,0 502,225,527,278,0 429,221,450,263,0 458,216,478,254,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V003_I00631.jpg 100,219,131,274,1 180,217,205,268,0 147,223,173,271,0 445,229,474,297,0 486,226,510,281,0 415,222,437,265,0 452,216,472,255,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V003_I00645.jpg 70,221,103,277,1 147,220,172,272,0 116,223,143,274,0 406,227,436,300,0 456,229,483,288,0 395,222,417,266,0 439,216,460,256,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V003_I00647.jpg 67,221,98,276,1 142,220,168,273,0 111,223,139,274,0 400,227,430,300,0 451,229,478,289,0 394,223,416,266,0 437,216,458,256,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V003_I00681.jpg 285,224,319,308,0 362,228,390,294,0 327,227,351,274,0 395,219,416,259,0 0,215,102,286,1 267,225,299,305,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V003_I00737.jpg 31,223,81,332,0 197,229,225,303,0 127,228,158,286,0 335,222,357,264,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V003_I00741.jpg 10,223,71,334,0 184,230,215,304,0 111,228,144,288,0 332,222,354,264,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V003_I00763.jpg 107,233,148,317,0 311,222,334,266,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V003_I00769.jpg 82,235,126,324,0 302,222,324,266,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V003_I00841.jpg 159,217,192,282,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V003_I00849.jpg 131,217,168,288,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V003_I00861.jpg 78,218,122,300,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V004_I00799.jpg 497,216,522,272,0 511,213,537,273,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V004_I00807.jpg 98,204,130,292,2 552,214,578,268,0 576,203,604,263,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V004_I01177.jpg 354,218,380,281,0 399,222,420,265,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V004_I01181.jpg 361,221,387,283,0 406,221,429,274,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V004_I01199.jpg 398,227,427,300,0 443,225,470,290,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V004_I01313.jpg 403,233,429,297,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V004_I01317.jpg 411,234,439,302,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V004_I01319.jpg 415,234,444,305,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V004_I01335.jpg 464,238,499,334,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V004_I01339.jpg 486,241,523,348,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V004_I01341.jpg 499,242,537,356,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V004_I01485.jpg 390,215,416,294,0 435,214,460,291,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V004_I01487.jpg 395,217,422,298,0 442,216,468,295,0 224,208,244,250,2
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V004_I01497.jpg 432,221,464,321,0 492,224,523,314,0 208,215,229,258,2
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V004_I01675.jpg 354,219,375,271,0 368,220,388,270,0 458,223,478,275,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V004_I01707.jpg 391,229,418,310,0 415,224,439,307,0 463,224,490,300,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V004_I01713.jpg 411,231,442,328,0 440,226,470,328,0 474,226,510,314,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V004_I01715.jpg 418,231,452,335,0 449,227,482,336,0 479,226,514,319,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V004_I01723.jpg 454,233,498,370,0 494,233,536,371,0 504,228,543,340,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V004_I01725.jpg 465,233,511,380,0 507,234,550,379,0 510,230,551,349,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V004_I01727.jpg 475,234,525,390,0 522,237,566,387,0 517,231,561,359,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V004_I01823.jpg 557,233,600,392,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V004_I02011.jpg 209,212,232,270,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V004_I02037.jpg 181,209,213,286,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V004_I02047.jpg 174,205,212,296,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V005_I01151.jpg 320,221,372,351,0 282,224,333,347,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V005_I01155.jpg 391,225,446,358,0 353,226,404,353,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V005_I01163.jpg 543,233,602,372,0 501,229,553,366,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V006_I00089.jpg 223,203,262,278,0 197,201,233,269,0 14,184,34,235,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V006_I00111.jpg 384,217,426,302,0 341,214,387,302,0 132,194,156,246,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V006_I00163.jpg 160,194,189,248,0 436,215,473,278,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V006_I00183.jpg 119,195,149,249,0 400,208,436,277,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V006_I00229.jpg 143,188,182,256,0 391,216,434,311,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V006_I00251.jpg 158,193,192,255,0 388,217,441,332,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V006_I00321.jpg 473,232,535,377,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V006_I00327.jpg 492,235,555,382,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V006_I00339.jpg 528,239,594,401,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V006_I00347.jpg 549,240,623,413,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V007_I00153.jpg 240,213,269,270,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V007_I00167.jpg 240,213,269,270,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V007_I00169.jpg 240,213,269,270,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V007_I00171.jpg 240,213,269,270,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V007_I00199.jpg 247,213,274,272,0 269,210,295,271,0 260,213,280,273,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V007_I00205.jpg 248,212,275,273,0 271,210,297,272,0 262,214,282,276,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V007_I00225.jpg 250,212,276,277,0 275,209,301,274,0 265,207,288,275,0 178,220,204,263,2
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V007_I00291.jpg 134,197,194,335,0 208,205,257,329,0 178,207,229,332,0 72,209,125,298,2
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V007_I00293.jpg 125,197,187,338,0 201,205,252,333,0 169,207,222,336,0 272,206,294,251,0 63,209,117,300,2
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V007_I00361.jpg 250,210,285,277,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V007_I00425.jpg 234,210,298,323,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V007_I00939.jpg 317,219,344,280,0 170,208,200,273,0 328,215,355,274,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V007_I00949.jpg 330,214,360,280,0 166,204,199,273,0 344,214,372,279,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V007_I00957.jpg 345,210,377,279,0 164,203,201,275,0 361,214,391,284,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V007_I00973.jpg 386,218,420,295,0 167,208,210,286,0 409,213,442,297,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V007_I01023.jpg 590,222,639,412,0 89,208,184,358,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V007_I01413.jpg 335,233,376,303,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V007_I01429.jpg 93,219,147,295,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V007_I01431.jpg 49,217,109,301,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V008_I00113.jpg 274,204,302,259,0 304,204,332,256,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V008_I00121.jpg 260,207,288,263,0 297,207,326,260,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V008_I00145.jpg 197,207,225,266,0 242,208,273,264,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V008_I00153.jpg 162,205,193,266,0 210,207,242,265,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V008_I00181.jpg 89,210,124,271,0 149,211,180,267,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V008_I00193.jpg 84,204,123,271,0 152,211,188,267,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V008_I00207.jpg 76,202,117,268,0 157,211,191,267,0 213,208,239,256,0 270,205,292,246,0 279,206,299,247,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V008_I00241.jpg 136,223,167,279,0 229,210,255,259,0 282,205,306,251,0 288,208,313,255,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V008_I00253.jpg 126,222,161,278,0 236,216,261,265,0 285,210,310,255,0 301,211,327,257,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V008_I00267.jpg 145,244,182,300,0 263,233,288,290,0 318,237,342,278,0 332,231,358,274,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V008_I00283.jpg 174,194,213,256,0 290,186,316,244,0 349,191,370,238,0 356,192,382,235,0 245,185,285,242,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V008_I00313.jpg 246,220,287,291,0 353,213,379,271,0 428,215,451,262,0 436,215,465,260,0 309,216,338,279,0 291,217,318,277,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V008_I00317.jpg 242,223,285,296,0 354,211,381,272,0 433,215,457,262,0 443,217,472,261,0 307,214,339,280,0 287,216,316,277,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V008_I00465.jpg 402,209,462,347,0 434,209,495,344,0 340,202,371,250,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V008_I00469.jpg 410,209,472,354,0 444,210,512,352,0 342,203,372,251,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V008_I00505.jpg 543,213,627,449,0 371,192,402,241,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V008_I00617.jpg 367,222,402,282,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V008_I00723.jpg 234,209,260,264,2 388,221,416,283,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V008_I00749.jpg 112,224,166,310,2 489,235,543,372,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V008_I00989.jpg 131,215,162,274,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V008_I00991.jpg 128,215,159,275,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set00_V008_I01013.jpg 67,211,115,299,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V000_I01395.jpg 550,211,575,295,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V000_I01397.jpg 559,211,584,298,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V000_I01513.jpg 363,208,399,291,0 388,208,426,316,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V000_I01525.jpg 404,207,447,326,0 376,210,416,301,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V000_I01533.jpg 421,207,467,332,0 393,209,434,308,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V000_I01543.jpg 452,210,501,341,0 412,210,456,316,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V000_I01675.jpg 496,214,553,363,0 525,239,604,391,0 448,218,494,345,0 282,201,525,259,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V000_I01717.jpg 473,222,531,376,0 514,239,593,391,0 448,218,494,345,0 306,201,525,259,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V000_I01731.jpg 436,224,495,383,0 509,239,588,391,0 443,218,490,345,0 306,201,525,259,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V000_I01759.jpg 263,220,334,395,0 426,239,508,397,0 419,221,466,348,0 505,214,552,311,0 307,201,525,259,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V000_I01767.jpg 206,219,278,399,0 379,236,463,400,0 414,224,460,351,0 489,217,536,314,0 308,201,525,259,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V000_I01773.jpg 159,218,232,405,0 338,234,423,403,0 408,226,455,353,0 476,220,523,317,0 309,201,525,259,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V000_I01791.jpg 27,213,96,412,0 192,232,282,415,0 381,226,428,355,0 424,270,463,356,0 433,225,480,322,0 312,201,525,259,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V000_I01825.jpg 284,222,337,366,0 323,277,361,363,0 317,225,370,328,0 320,201,525,259,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V000_I01861.jpg 143,220,207,381,0 192,286,231,373,0 209,223,266,338,0 332,201,525,259,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V000_I01867.jpg 115,219,183,384,0 164,288,206,378,0 188,222,246,338,0 335,201,525,259,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V000_I01871.jpg 96,218,161,386,0 145,289,188,382,0 174,222,232,338,0 335,201,525,259,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V000_I01987.jpg 233,218,287,346,0 354,221,395,332,0 375,217,419,317,1 336,201,525,259,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V000_I01991.jpg 217,218,271,346,0 340,220,382,332,0 364,217,408,317,1 336,201,525,259,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V000_I01997.jpg 194,218,248,346,0 324,220,366,332,0 348,217,392,318,1 336,201,525,259,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V000_I02007.jpg 155,218,209,346,0 298,221,340,333,0 324,217,368,318,1 336,201,525,259,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V000_I02035.jpg 33,218,91,359,0 211,219,253,331,0 254,210,308,335,1 336,201,525,259,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V000_I02039.jpg 12,221,70,362,0 201,220,243,332,0 241,210,297,338,1 336,201,525,259,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V000_I02043.jpg 192,221,233,334,0 229,210,286,340,1 336,201,525,259,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V000_I02049.jpg 177,223,218,336,0 210,210,268,341,1 336,201,525,259,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V000_I02179.jpg 55,227,135,409,0 336,201,525,259,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V000_I02195.jpg 160,231,244,414,0 336,201,525,259,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V000_I02237.jpg 435,238,521,442,0 336,201,525,259,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V001_I00001.jpg 264,228,298,305,0 293,221,324,289,0 202,218,243,294,1 540,223,573,293,0 315,221,344,295,0 348,240,373,298,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V001_I00009.jpg 262,228,304,319,0 290,221,322,292,0 180,218,217,297,1 541,220,575,291,0 333,242,357,300,0 299,223,328,297,0 365,223,387,279,0 356,226,376,277,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V001_I00069.jpg 350,241,414,392,0 399,233,446,329,0 97,230,161,332,1 268,226,305,326,0 286,251,320,328,0 491,226,530,285,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V001_I00073.jpg 397,245,464,403,0 429,236,477,334,0 122,226,179,327,1 287,230,324,332,0 300,256,335,334,0 521,228,560,289,1 6,214,48,324,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V001_I00193.jpg 465,225,487,277,0 487,225,507,277,0 230,219,255,261,2
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V001_I00201.jpg 487,225,510,280,0 513,225,533,280,0 222,219,249,262,2
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V001_I00205.jpg 498,225,522,282,0 525,225,546,282,0 218,220,245,262,2
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V001_I00291.jpg 462,215,500,306,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V001_I00299.jpg 501,217,546,331,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V001_I00331.jpg 533,236,577,350,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V001_I00337.jpg 563,224,608,343,0 483,209,529,281,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V001_I00411.jpg 433,220,461,288,0 415,241,436,284,0 369,220,390,260,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V001_I00435.jpg 489,231,532,328,0 457,260,487,315,0 364,224,387,273,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V001_I00439.jpg 513,234,560,339,0 476,267,508,325,0 365,224,388,279,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V001_I00447.jpg 590,238,634,382,0 535,285,569,358,0 370,224,395,287,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V001_I00479.jpg 438,218,474,321,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V001_I00481.jpg 444,218,482,324,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V001_I00495.jpg 504,221,559,360,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V001_I00641.jpg 326,201,351,256,0 441,207,461,256,0 465,207,485,256,0 498,213,518,258,0 532,208,552,258,0 516,213,536,259,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V001_I00667.jpg 325,203,351,258,0 522,215,542,263,0 501,215,522,259,0 469,207,489,257,0 444,207,464,257,0 536,209,558,259,0 420,210,441,256,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V001_I00765.jpg 339,202,360,258,0 426,212,449,269,0 206,205,229,261,0 356,202,377,256,0 401,215,421,264,0 441,208,464,263,0 187,204,212,259,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V001_I00771.jpg 314,204,334,260,0 404,212,427,269,0 171,209,194,264,0 333,204,355,258,0 377,213,398,262,0 418,208,441,264,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V001_I00791.jpg 255,216,276,273,0 345,220,368,278,0 51,226,75,286,0 274,215,296,269,0 320,222,341,277,0 363,213,386,271,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V001_I00831.jpg 303,230,327,292,0 277,230,306,293,0 229,223,251,287,0 321,221,344,281,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V001_I01067.jpg 503,216,534,286,0 549,220,575,282,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V001_I01145.jpg 540,215,563,270,0 563,216,585,273,0 580,221,620,274,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V001_I01153.jpg 568,217,594,279,0 590,217,614,280,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V002_I00295.jpg 541,221,561,279,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V002_I00417.jpg 496,207,517,256,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V002_I00431.jpg 560,202,585,260,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V002_I00435.jpg 586,200,615,261,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V002_I00561.jpg 598,213,620,263,0 571,217,591,265,0 586,214,606,263,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V003_I00183.jpg 496,208,528,269,0 456,212,483,268,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V003_I00185.jpg 462,206,494,269,0 509,205,543,273,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V003_I00253.jpg 523,221,564,296,0 557,206,600,304,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V003_I00359.jpg 580,211,611,286,0 549,212,573,282,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V003_I00615.jpg 122,208,162,274,0 113,209,148,269,2 331,204,364,265,2 0,216,36,267,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V003_I00619.jpg 126,208,167,279,0 113,209,149,271,2 314,204,351,268,2 0,217,31,266,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V003_I00683.jpg 273,212,326,338,0 197,219,247,326,2
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V003_I00703.jpg 343,217,408,352,0 295,221,349,336,2 7,230,59,348,0 0,234,76,370,0 59,218,107,339,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V003_I00709.jpg 366,219,431,354,0 322,221,377,338,2 33,233,109,371,0 33,228,77,336,0 76,218,124,339,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V003_I00723.jpg 424,223,477,352,0 383,222,440,343,2 108,232,182,370,0 72,223,129,347,0 127,219,175,338,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V003_I00809.jpg 485,243,543,365,0 379,231,426,341,0 408,226,456,336,0 17,211,41,257,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V003_I00825.jpg 534,242,592,365,0 433,233,478,341,0 448,229,498,338,0 26,211,50,255,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V003_I00829.jpg 545,242,603,365,0 447,234,491,341,0 28,211,52,255,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V003_I00837.jpg 474,235,518,340,0 38,221,105,399,0 32,211,56,256,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V003_I00881.jpg 596,232,637,351,0 283,221,347,374,0 50,215,74,257,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V004_I01213.jpg 580,242,616,317,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V004_I01249.jpg 453,236,495,311,0 537,243,590,363,0 568,257,602,352,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V004_I01291.jpg 246,234,290,309,0 471,233,527,355,0 511,243,556,345,0 528,218,576,311,2
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V004_I01313.jpg 93,232,139,310,0 364,230,421,353,0 393,240,442,351,0 379,218,433,318,2
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V004_I01323.jpg 15,230,67,318,0 299,227,356,351,0 318,238,376,349,0 309,220,362,321,2
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V005_I00207.jpg 392,239,463,445,0 417,257,494,466,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V005_I00227.jpg 241,236,324,455,0 251,252,347,482,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set01_V005_I00231.jpg 207,236,294,462,0 217,249,314,487,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V000_I00391.jpg 496,214,520,265,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V000_I00473.jpg 341,232,400,359,0 513,228,553,340,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V000_I00493.jpg 72,231,158,439,0 438,220,494,358,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V000_I00529.jpg 498,223,529,302,0 197,232,255,374,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V000_I00539.jpg 429,218,462,301,0 111,233,171,378,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V000_I00553.jpg 342,217,377,304,0 573,218,607,293,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V000_I00555.jpg 333,217,369,305,0 565,218,601,294,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V000_I00585.jpg 251,229,292,327,0 523,223,568,315,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V000_I00619.jpg 147,223,195,357,0 516,223,555,310,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V000_I00631.jpg 92,226,147,374,0 496,224,535,317,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V000_I00659.jpg 461,225,506,361,0 489,229,528,342,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V000_I00707.jpg 347,212,368,262,0 442,222,462,254,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V000_I00727.jpg 325,217,347,272,0 425,221,445,254,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V000_I00739.jpg 303,215,327,272,0 412,218,434,255,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V000_I00745.jpg 299,215,323,274,0 412,217,436,255,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V000_I00759.jpg 290,211,316,273,0 415,214,441,256,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V000_I00779.jpg 237,210,266,277,0 388,213,415,258,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V000_I00803.jpg 166,201,203,292,0 357,212,402,262,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V000_I00807.jpg 155,199,194,295,0 353,212,401,263,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V000_I00827.jpg 105,197,153,319,0 348,212,401,265,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V000_I01343.jpg 262,214,282,260,0 278,214,298,265,0 332,214,353,269,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V000_I01349.jpg 262,215,282,263,0 278,213,299,266,0 336,215,358,271,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V000_I01351.jpg 262,216,282,264,0 278,213,299,267,0 338,215,359,272,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V000_I01355.jpg 262,217,282,265,0 278,213,299,269,0 341,215,363,273,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V000_I01369.jpg 257,218,277,272,0 274,212,298,274,0 352,212,375,276,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V000_I01379.jpg 256,217,278,275,0 272,214,298,282,0 362,214,387,284,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V000_I01399.jpg 255,220,281,289,0 276,217,306,296,0 400,225,428,308,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V000_I01425.jpg 427,227,475,348,0 196,227,226,314,0 215,219,250,320,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V000_I01437.jpg 448,228,497,371,0 145,222,207,344,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V000_I01479.jpg 241,218,262,268,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V000_I01483.jpg 234,218,255,269,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V000_I01489.jpg 224,220,246,273,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V000_I01491.jpg 221,221,243,275,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V000_I01499.jpg 208,219,231,277,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V000_I01501.jpg 205,219,228,277,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V000_I01507.jpg 198,218,221,279,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V000_I01787.jpg 19,234,83,384,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V000_I01875.jpg 232,208,256,268,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V000_I01897.jpg 295,209,323,278,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V001_I00043.jpg 372,216,416,314,0 399,221,436,320,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V001_I00055.jpg 374,217,424,328,0 406,225,444,326,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V001_I00079.jpg 353,214,411,352,0 396,230,438,352,0 309,219,348,299,2
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V001_I00153.jpg 183,220,277,425,0 306,215,358,319,2 445,213,486,274,0 489,214,527,270,0 571,213,617,280,0 213,204,283,359,0 152,200,223,383,0 261,211,333,363,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V001_I00197.jpg 234,217,353,493,0 592,225,633,286,0 532,218,582,301,0 54,208,169,414,2 258,199,300,294,0 240,199,285,287,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V001_I00205.jpg 249,221,367,498,0 533,216,587,319,0 15,214,132,452,2 251,199,300,306,0 235,200,281,292,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V001_I00229.jpg 305,226,424,503,0 540,217,628,391,0 242,206,292,316,0 224,203,274,305,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V001_I00251.jpg 405,226,516,488,0 552,221,640,436,0 266,204,316,314,0 242,205,292,306,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V001_I00301.jpg 425,193,477,326,0 384,201,437,317,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V001_I00451.jpg 97,208,145,319,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V001_I00507.jpg 314,225,359,314,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V001_I00529.jpg 315,218,354,318,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V001_I00559.jpg 336,228,387,336,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V001_I00563.jpg 341,229,395,341,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V001_I00579.jpg 360,221,424,356,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V001_I00595.jpg 392,224,467,386,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V001_I00617.jpg 467,243,556,450,0 358,214,380,260,0 365,215,388,260,0 379,216,399,265,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V001_I00621.jpg 485,250,576,464,0 357,214,378,260,0 363,216,387,262,0 377,217,397,265,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V001_I00659.jpg 327,214,349,262,0 344,216,371,264,0 363,214,385,268,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V001_I00673.jpg 306,203,331,255,0 316,205,345,256,0 336,204,360,262,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V001_I00677.jpg 303,202,329,255,0 312,203,342,256,0 333,202,356,261,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V001_I00717.jpg 300,209,334,274,0 117,212,165,301,0 322,216,355,275,0 345,209,371,274,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V001_I00795.jpg 288,211,327,286,0 317,211,360,288,0 349,215,380,289,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V001_I00799.jpg 294,211,334,286,0 324,212,367,289,0 353,216,384,289,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V001_I00801.jpg 298,211,337,286,0 326,213,369,289,0 356,216,387,289,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V001_I00821.jpg 347,217,390,299,0 365,217,409,299,0 398,219,430,296,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V001_I00823.jpg 352,218,396,301,0 371,218,415,300,0 403,219,436,297,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V001_I00825.jpg 357,218,401,302,0 377,218,421,302,0 409,220,442,299,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V001_I00911.jpg 352,213,409,369,0 388,220,441,361,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V001_I00913.jpg 350,213,407,373,0 386,220,440,364,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V001_I00931.jpg 350,216,412,405,0 383,226,451,397,0 386,223,448,390,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V001_I00933.jpg 353,216,416,408,0 391,227,459,401,0 389,224,452,393,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V001_I00935.jpg 357,216,421,412,0 398,228,466,406,0 392,224,456,395,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V001_I00957.jpg 461,233,540,458,0 483,243,549,454,0 439,228,517,427,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V001_I00971.jpg 548,249,622,493,0 494,228,581,450,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V001_I00993.jpg 556,232,635,504,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V001_I01585.jpg 28,213,69,325,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V001_I01595.jpg 87,214,129,326,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V001_I01629.jpg 161,212,221,330,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V001_I01635.jpg 142,212,206,337,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V001_I01647.jpg 119,210,191,347,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V001_I01665.jpg 84,241,165,395,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V001_I01671.jpg 66,241,151,402,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V001_I01675.jpg 48,238,135,402,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V001_I01749.jpg 215,204,243,254,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V001_I01785.jpg 274,218,298,275,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V001_I01789.jpg 272,219,297,278,0 313,224,348,277,2 293,222,316,277,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V001_I01801.jpg 267,222,294,283,0 367,234,403,293,2 309,218,343,290,0 385,228,426,298,0 297,226,317,286,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V001_I01805.jpg 266,223,293,284,0 382,230,419,288,2 304,219,339,291,0 329,226,369,294,0 297,226,317,286,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V001_I01823.jpg 261,210,292,277,0 494,220,529,280,2 285,207,319,279,0 354,211,397,282,0 338,210,378,278,0 520,221,552,280,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V001_I01845.jpg 255,218,295,295,0 229,228,267,303,0 338,224,375,300,0 292,228,328,293,0 529,221,569,290,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V002_I00089.jpg 521,205,558,287,0 508,196,533,260,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V002_I00091.jpg 528,205,567,289,0 513,196,538,261,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V002_I00093.jpg 536,207,576,292,0 518,196,544,262,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V002_I00137.jpg 481,198,506,251,0 425,201,450,256,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V002_I00165.jpg 533,198,564,266,0 402,209,424,264,0 474,205,500,275,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V002_I00187.jpg 586,205,621,281,0 423,206,446,279,0 518,202,552,291,0 402,210,422,255,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V002_I00195.jpg 431,202,457,278,0 545,198,581,298,0 413,209,433,261,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V002_I00235.jpg 540,211,593,353,0 497,209,533,303,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V002_I00285.jpg 442,215,470,269,0 421,213,444,276,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V002_I00327.jpg 536,210,577,314,0 502,215,546,312,0 406,215,431,269,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V002_I00357.jpg 459,214,493,295,0 444,212,470,278,0 417,217,444,263,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V002_I00411.jpg 559,215,615,341,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V002_I00609.jpg 496,204,537,300,0 496,212,527,285,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V002_I00615.jpg 520,208,563,312,0 508,211,542,293,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V002_I00623.jpg 558,215,606,334,0 527,213,566,305,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V002_I00633.jpg 559,221,610,330,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V002_I00637.jpg 574,226,629,342,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V002_I00919.jpg 340,215,363,269,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V002_I00923.jpg 342,215,365,271,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V002_I00935.jpg 349,204,373,265,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V002_I00979.jpg 394,205,431,297,0 527,212,554,266,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V002_I00985.jpg 408,205,449,309,0 462,217,488,274,0 554,213,583,271,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V002_I00989.jpg 419,205,463,318,0 474,215,502,279,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V002_I01003.jpg 483,211,548,362,0 524,213,554,287,0 474,215,496,271,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V002_I01031.jpg 449,221,470,274,0 573,230,601,306,0 535,220,562,287,0 556,219,590,286,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V002_I01049.jpg 520,208,542,275,0 536,210,564,275,0 470,213,492,267,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V002_I01115.jpg 466,221,488,268,0 547,214,567,255,0 509,209,531,261,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V002_I01223.jpg 350,221,447,274,1 549,222,579,276,0 565,239,590,289,2
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V002_I01247.jpg 351,220,461,269,1 574,211,604,272,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V002_I01257.jpg 352,217,463,266,1 589,210,619,271,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V002_I01273.jpg 356,218,385,273,0 378,217,399,270,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V002_I01325.jpg 434,210,480,340,0 513,232,558,356,0 408,226,443,319,0 564,205,605,340,0 470,221,502,321,0 505,220,540,326,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V002_I01343.jpg 480,231,532,386,0 592,242,637,402,0 438,231,493,365,0 532,233,573,362,0 569,224,608,357,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V002_I01363.jpg 579,240,640,483,0 499,241,566,411,0 544,212,613,415,0 466,209,503,278,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V002_I01391.jpg 501,201,541,294,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V003_I00001.jpg 427,217,452,291,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V003_I00065.jpg 525,228,551,298,0 544,240,589,346,0 111,207,171,250,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V003_I00091.jpg 559,232,596,322,0 184,216,204,264,0 212,216,232,259,0 115,205,138,255,0 132,205,156,253,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V003_I00103.jpg 576,230,615,326,0 119,205,143,253,0 165,213,186,262,0 227,216,247,259,0 105,204,128,255,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V003_I00127.jpg 105,210,128,258,0 88,208,110,259,0 142,215,162,264,0 281,219,301,262,0 591,236,634,338,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V003_I00131.jpg 102,210,126,258,0 87,208,110,259,0 139,215,160,264,0 292,219,312,262,0 594,237,635,339,0 563,213,587,266,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V003_I00161.jpg 29,202,52,252,0 47,204,72,255,0 88,207,114,262,0 30,217,60,300,0 577,217,601,273,0 412,223,439,276,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V003_I00233.jpg 581,222,604,281,0 514,217,538,274,0 472,219,494,280,0 457,228,481,288,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V003_I00247.jpg 494,224,516,285,0 525,234,549,293,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V003_I00249.jpg 535,234,559,293,0 497,224,519,285,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V003_I00273.jpg 550,230,581,314,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V003_I00325.jpg 560,215,592,297,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V003_I00331.jpg 588,221,621,310,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V003_I00361.jpg 499,213,527,284,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V003_I00415.jpg 410,219,434,276,0 337,213,357,258,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V003_I00419.jpg 417,216,443,277,0 338,210,362,263,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V003_I00461.jpg 455,206,507,346,0 437,211,471,293,0 504,207,538,297,0 354,213,374,256,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V003_I00463.jpg 467,205,522,359,0 445,209,482,300,0 509,208,543,300,0 355,213,375,258,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V003_I00483.jpg 561,199,601,310,0 586,205,626,342,0 398,209,423,275,0 506,212,537,298,0 455,215,478,263,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V003_I00741.jpg 510,209,539,274,0 448,215,468,263,0 460,216,480,263,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V003_I00979.jpg 84,216,114,272,0 17,213,52,270,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V004_I00305.jpg 478,220,503,286,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V004_I00319.jpg 553,221,586,321,0 485,222,509,293,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V004_I00323.jpg 584,221,619,329,0 508,223,533,299,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V004_I00349.jpg 36,203,68,260,1 442,205,468,265,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V004_I00351.jpg 30,206,58,254,1 447,205,474,267,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V004_I00357.jpg 13,205,46,264,1 465,207,493,273,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V004_I00359.jpg 8,207,39,266,1 471,207,499,273,0 488,203,511,271,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V004_I00441.jpg 493,233,532,337,0 438,220,458,263,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V004_I00445.jpg 531,235,570,356,0 444,219,464,266,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V004_I00451.jpg 600,235,640,398,0 455,218,475,269,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V004_I00457.jpg 468,216,488,271,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V004_I00499.jpg 559,219,589,296,0 579,217,608,295,0 503,216,529,275,0 468,208,488,260,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V004_I00609.jpg 487,214,511,281,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V004_I00625.jpg 554,214,585,289,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V004_I00695.jpg 443,227,467,287,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V004_I00701.jpg 455,224,484,296,0 474,222,500,301,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V004_I00717.jpg 556,228,585,333,0 529,228,563,338,0 589,218,623,332,0 606,237,640,345,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V004_I00857.jpg 545,215,567,269,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V004_I00861.jpg 566,206,587,262,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V004_I00953.jpg 601,213,627,298,0 473,213,493,257,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V004_I00975.jpg 576,215,602,275,0 86,215,106,260,0 33,208,56,251,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V004_I01033.jpg 534,218,564,303,0 559,217,588,302,0 611,222,640,304,0 389,217,409,256,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V004_I01049.jpg 432,217,452,267,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V004_I01079.jpg 564,223,593,315,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V004_I01229.jpg 537,207,558,272,0 551,212,578,282,0 589,222,609,280,0 602,215,623,277,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set02_V004_I01501.jpg 545,205,579,261,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V000_I00145.jpg 235,215,264,296,0 267,220,294,296,0 307,213,334,297,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V000_I00149.jpg 232,215,262,298,0 264,220,292,298,0 304,213,330,298,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V000_I00157.jpg 225,215,256,303,0 259,220,287,301,0 297,213,323,299,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V000_I00197.jpg 189,210,229,332,0 231,227,264,332,0 265,215,300,327,0 320,226,343,274,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V000_I00199.jpg 187,210,227,334,0 230,228,263,334,0 263,215,299,329,0 320,226,343,275,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V000_I00201.jpg 186,210,226,335,0 229,228,262,335,0 262,216,298,330,0 319,226,343,276,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V000_I00227.jpg 160,208,208,360,0 215,224,256,362,0 249,228,290,348,0 309,222,336,287,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V000_I00259.jpg 130,218,187,398,0 201,232,257,402,0 244,236,286,374,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V000_I00279.jpg 116,223,178,421,0 202,234,259,426,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V000_I00285.jpg 198,232,259,433,0 104,223,168,426,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V000_I00311.jpg 74,226,155,462,0 1,219,67,485,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V000_I00321.jpg 11,225,84,495,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V000_I00765.jpg 265,216,299,282,2 222,221,246,272,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V000_I00791.jpg 130,220,166,291,2 192,218,223,285,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V000_I00801.jpg 37,207,67,273,2 180,210,213,296,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V000_I00881.jpg 352,223,377,285,0 329,222,350,266,0 369,223,396,282,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V000_I00901.jpg 365,220,399,302,0 327,221,350,271,0 383,216,415,305,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V000_I00931.jpg 427,217,479,335,0 463,223,509,344,0 356,215,385,285,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V000_I00957.jpg 401,215,435,300,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V000_I00981.jpg 383,217,427,317,0 201,217,225,273,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V000_I00997.jpg 376,213,425,338,0 155,211,183,277,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V000_I01009.jpg 386,208,443,359,0 139,207,170,279,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V000_I01013.jpg 401,211,460,368,0 136,207,169,281,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V000_I01047.jpg 193,213,228,289,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V000_I01083.jpg 85,201,141,321,0 298,219,323,271,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V000_I01113.jpg 315,215,347,287,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V000_I01159.jpg 460,219,508,323,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V000_I01177.jpg 551,222,612,380,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V000_I01181.jpg 576,225,635,387,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V000_I01299.jpg 369,214,400,285,0 110,205,145,285,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V000_I01301.jpg 370,214,399,284,0 111,205,146,285,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V000_I01315.jpg 388,216,427,295,0 131,207,166,288,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V000_I01333.jpg 468,221,507,301,0 201,208,236,288,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V000_I01335.jpg 474,221,513,302,0 209,208,244,288,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V000_I01379.jpg 245,215,286,313,0 558,223,598,321,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V000_I01383.jpg 235,214,278,316,0 562,223,602,323,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V000_I01403.jpg 149,215,201,337,0 579,221,623,333,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V000_I01419.jpg 29,215,89,373,0 589,222,635,343,0 150,210,204,333,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V000_I01491.jpg 482,217,507,276,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V000_I01515.jpg 526,214,560,288,0 561,218,591,287,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V000_I01517.jpg 532,214,567,291,0 568,220,598,289,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V000_I01523.jpg 552,214,589,299,0 586,224,617,294,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V000_I01641.jpg 521,204,560,272,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V000_I01783.jpg 339,212,366,273,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V000_I01807.jpg 208,196,233,256,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V000_I01815.jpg 120,192,145,253,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V000_I03231.jpg 303,203,344,278,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V000_I03261.jpg 198,203,260,316,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V000_I03637.jpg 131,206,170,281,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V000_I03641.jpg 105,206,147,288,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V000_I03651.jpg 43,206,92,305,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V001_I00059.jpg 142,216,174,257,0 167,210,195,257,0 264,207,293,254,0 372,210,400,252,0 282,201,311,254,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V001_I00069.jpg 117,216,152,265,0 150,205,180,266,0 259,211,288,259,0 374,212,402,254,0 275,204,308,262,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V001_I00075.jpg 101,216,139,270,0 137,205,170,272,0 255,210,285,263,0 374,212,402,254,0 270,206,306,266,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V001_I00085.jpg 72,215,109,276,0 116,207,149,274,0 248,209,279,269,0 372,212,400,260,0 265,209,301,270,0 139,215,168,272,2
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V001_I00091.jpg 53,214,91,280,0 103,208,137,275,0 246,211,277,271,0 370,212,398,265,0 262,211,298,272,0 127,217,158,279,2
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V001_I00093.jpg 45,215,83,282,0 97,208,132,276,0 245,211,277,272,0 369,212,398,266,0 261,212,297,273,0 123,218,154,281,2
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V001_I00103.jpg 4,219,47,292,0 65,212,106,287,0 238,213,272,276,0 360,211,396,276,0 255,214,295,276,0 96,218,128,282,2
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V001_I00107.jpg 51,213,96,291,0 232,214,268,280,0 357,211,395,280,0 242,211,283,273,0 187,208,222,258,0 210,210,246,258,0 82,219,113,283,2
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V001_I00113.jpg 31,215,66,294,0 227,215,258,275,0 349,212,387,282,0 231,209,272,272,0 175,209,212,260,0 201,214,237,261,0 53,220,87,285,2
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V001_I00167.jpg 115,207,164,305,0 326,209,380,313,0 155,208,201,306,0 34,198,90,295,0 84,207,132,297,0 229,202,264,275,1 241,202,273,274,1 174,195,209,275,0 151,193,192,275,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V001_I00205.jpg 74,208,139,345,0 392,228,453,368,0 53,206,119,337,0 12,220,67,338,0 279,211,310,289,1 291,208,327,289,1 217,201,259,283,0 193,201,235,286,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V001_I00213.jpg 59,210,131,356,0 426,229,487,374,0 28,213,103,350,0 0,225,53,343,0 300,207,331,292,1 312,207,347,290,1 237,203,278,285,0 212,200,255,287,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V001_I00229.jpg 29,243,107,402,0 493,258,568,429,0 351,242,382,316,1 363,241,394,315,1 293,237,334,319,0 264,235,307,323,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V001_I00235.jpg 14,234,94,400,0 527,251,602,424,0 365,230,397,303,1 377,235,408,308,1 309,228,351,310,0 279,225,323,314,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V001_I00239.jpg 4,222,86,408,0 548,250,623,434,0 376,226,407,300,1 389,227,419,300,1 320,222,362,304,0 290,218,333,307,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V001_I00243.jpg 566,245,638,443,0 384,213,417,288,1 399,212,430,287,1 331,216,373,299,0 304,212,347,303,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V001_I00295.jpg 520,216,560,304,1 529,226,566,307,1 491,223,540,320,0 456,223,507,324,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V001_I00305.jpg 529,221,583,332,0 500,224,556,337,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V001_I00321.jpg 560,223,613,368,0 587,223,639,347,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V001_I00345.jpg 561,232,614,344,0 585,228,632,342,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V001_I00361.jpg 568,232,625,365,0 599,229,634,361,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V001_I00463.jpg 324,239,344,288,0 298,231,319,281,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V001_I00475.jpg 322,223,342,271,0 309,224,330,274,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V001_I00501.jpg 337,218,362,285,0 299,218,323,266,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V001_I00509.jpg 352,215,376,281,0 304,212,333,270,0 318,216,346,269,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V001_I00513.jpg 360,214,385,280,0 306,214,336,271,0 339,215,366,276,0 357,211,388,285,0 318,217,345,270,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V001_I00525.jpg 388,215,419,294,0 309,217,338,274,0 351,220,383,284,0 371,212,399,277,0 319,217,350,274,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V001_I00573.jpg 575,223,634,401,0 348,209,391,290,0 433,213,471,291,0 447,201,489,290,0 374,214,414,298,0 409,210,452,300,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V001_I00605.jpg 448,226,508,372,0 505,229,532,295,0 521,218,562,296,0 491,225,552,363,0 542,221,603,374,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V001_I00629.jpg 533,242,582,342,0 552,227,603,337,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V001_I00781.jpg 348,218,376,265,0 364,213,390,267,0 275,204,296,246,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V001_I00811.jpg 383,220,423,299,0 406,220,448,300,0 270,205,298,251,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V001_I00817.jpg 393,222,433,307,0 418,221,463,307,0 269,205,298,254,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V001_I00827.jpg 412,226,453,320,0 441,222,488,320,0 266,205,298,261,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V001_I00851.jpg 512,233,573,386,0 545,223,612,373,0 264,211,295,269,0 362,214,388,256,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V001_I00855.jpg 541,238,604,404,0 570,223,640,384,0 261,211,291,269,0 364,214,390,256,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V001_I00889.jpg 151,211,207,339,0 340,218,368,267,0 312,212,335,254,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V001_I00893.jpg 129,214,186,354,0 334,218,363,268,0 305,211,328,253,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V001_I00907.jpg 0,222,61,419,0 318,217,351,281,0 288,208,314,254,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V001_I00923.jpg 337,216,374,289,0 300,210,331,264,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V001_I00963.jpg 504,229,568,370,0 407,214,441,283,0 394,218,422,274,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V001_I00969.jpg 539,237,603,396,0 414,216,450,290,0 403,220,431,276,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V001_I00985.jpg 432,219,475,296,0 414,223,445,285,0 432,223,458,284,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V001_I00989.jpg 437,219,483,295,0 416,223,447,287,0 435,223,462,285,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V001_I01015.jpg 499,220,551,331,0 445,226,479,297,0 465,220,500,297,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V001_I01061.jpg 514,211,558,320,0 564,196,606,316,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V001_I01889.jpg 421,215,449,270,0 435,218,459,270,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V001_I01891.jpg 424,215,452,271,0 438,217,463,271,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V001_I01899.jpg 436,214,467,275,0 452,216,479,276,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set03_V001_I01923.jpg 492,211,534,300,0 525,209,566,301,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V000_I00365.jpg 566,203,604,294,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V000_I00367.jpg 582,207,622,302,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V000_I00519.jpg 547,202,575,283,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V000_I01223.jpg 566,212,591,279,0 243,206,296,243,1 454,214,474,260,0 25,202,154,239,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V000_I01227.jpg 579,212,604,284,0 237,206,290,244,1 454,214,475,259,0 25,202,154,239,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V000_I01267.jpg 554,215,582,298,0 454,218,475,267,0 149,208,257,247,1 25,202,144,239,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V000_I01275.jpg 578,213,609,304,0 465,219,486,269,0 149,205,260,244,1 25,202,140,239,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V000_I01319.jpg 577,222,599,275,0 491,214,512,256,1 145,206,314,253,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V000_I01407.jpg 611,230,633,283,0 101,213,341,259,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V000_I01721.jpg 603,228,625,282,0 7,208,45,263,1 405,213,450,251,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V000_I01729.jpg 600,228,622,282,0 7,208,40,263,1 405,213,451,251,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V000_I01757.jpg 590,228,612,281,0 5,208,25,263,1 406,214,452,251,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V000_I01769.jpg 586,228,608,281,0 406,214,452,251,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V000_I01791.jpg 580,228,603,281,0 406,214,452,251,1 618,227,639,284,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V000_I01825.jpg 579,228,602,281,0 616,227,638,284,0 406,214,452,251,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V000_I01849.jpg 579,228,602,281,0 616,227,638,284,0 574,227,606,313,0 406,214,451,251,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V000_I01873.jpg 579,228,602,281,0 616,227,638,284,0 460,234,501,331,2 590,231,619,321,0 516,226,548,314,0 406,214,448,251,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V000_I01877.jpg 579,228,602,281,0 616,227,638,284,0 432,232,473,329,2 579,230,608,323,0 507,225,539,314,0 406,214,447,251,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V000_I01905.jpg 579,228,602,281,0 616,227,638,284,0 440,223,472,315,0 495,221,527,325,0 215,223,256,320,2 406,214,442,251,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V000_I01949.jpg 579,228,602,281,0 616,227,638,284,0 351,216,384,320,0 318,220,351,316,0 406,214,442,251,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V000_I01997.jpg 579,228,602,281,0 616,227,638,284,0 406,214,441,251,1 168,216,205,321,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V000_I02039.jpg 579,228,602,281,0 616,227,638,284,0 437,224,486,304,1 406,214,433,251,1 10,208,54,328,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V000_I02045.jpg 579,228,602,281,0 616,227,638,284,0 417,223,468,306,1 406,214,432,251,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V000_I02055.jpg 579,228,602,281,0 616,227,638,284,0 384,222,437,310,1 2,204,49,340,0 406,214,431,251,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V000_I02061.jpg 579,228,602,281,0 616,227,638,284,0 365,221,418,312,1 15,206,69,342,0 406,214,430,251,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V000_I02065.jpg 579,228,602,281,0 616,227,638,284,0 351,221,406,314,1 25,207,80,343,0 406,214,429,251,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V000_I02081.jpg 579,228,602,281,0 616,227,638,284,0 298,219,353,319,1 79,211,128,347,0 406,214,428,251,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V000_I02127.jpg 579,228,602,281,0 616,227,638,284,0 143,216,200,327,1 237,210,290,350,0 406,213,426,250,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V000_I02155.jpg 579,228,602,281,0 616,227,638,284,0 42,212,100,327,1 353,214,401,356,0 405,213,425,250,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V000_I02165.jpg 579,228,601,281,0 616,227,638,284,0 16,209,69,324,1 390,215,438,358,0 405,213,425,250,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V000_I02187.jpg 578,227,601,281,0 616,227,638,284,0 471,217,524,361,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V000_I02207.jpg 578,227,600,280,0 616,227,638,284,0 544,222,595,365,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V000_I02245.jpg 576,226,598,279,0 616,227,639,284,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V000_I02263.jpg 572,226,595,279,0 616,227,638,284,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V000_I02275.jpg 569,226,591,279,0 616,227,638,284,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V000_I02285.jpg 565,226,587,280,0 616,227,638,284,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V000_I02303.jpg 563,227,586,281,0 616,227,639,284,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V000_I02311.jpg 563,227,586,281,0 616,227,639,284,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V000_I02341.jpg 561,227,584,283,0 616,227,639,285,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V000_I02349.jpg 560,227,584,283,0 617,227,639,285,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V000_I02351.jpg 560,227,584,284,0 617,227,639,285,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V000_I02413.jpg 560,228,586,287,0 617,228,639,285,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V000_I02439.jpg 569,228,596,289,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V001_I00085.jpg 517,189,546,255,0 492,190,516,239,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V001_I00113.jpg 517,185,539,234,0 533,183,555,239,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V001_I00275.jpg 525,220,548,280,0 543,217,568,280,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V001_I00313.jpg 515,218,541,289,0 465,217,485,279,0 504,217,532,269,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V001_I00323.jpg 599,214,633,311,0 512,219,550,302,0 560,217,597,290,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V001_I00697.jpg 485,214,512,289,1 522,225,549,296,0 534,218,562,291,0 599,212,627,278,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V001_I01153.jpg 187,207,215,258,0 277,207,298,257,0 262,210,283,254,0 309,208,329,255,0 349,195,429,253,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V001_I01165.jpg 198,207,227,272,0 305,211,329,268,0 282,213,307,267,0 146,205,174,272,0 339,212,359,268,0 400,209,423,261,0 459,204,483,254,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V001_I01171.jpg 294,213,321,277,0 203,209,236,278,0 323,211,348,271,0 147,207,182,279,0 401,209,428,269,0 358,212,380,272,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V001_I01253.jpg 539,212,583,307,0 437,218,479,314,0 579,202,617,304,0 320,221,379,340,0 403,217,451,331,0 491,210,531,289,2 510,207,554,299,0 596,211,640,325,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V001_I01339.jpg 493,211,532,280,2 274,217,322,333,0 506,218,550,309,0 600,216,640,330,0 550,207,591,307,0 601,202,638,304,0 540,205,577,307,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V001_I01447.jpg 498,206,536,294,2 560,209,609,311,0 601,218,640,332,0 523,204,565,303,2 571,198,625,312,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V001_I01505.jpg 496,210,538,295,2 567,210,610,312,0 601,218,640,332,0 528,201,573,302,2
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V001_I01509.jpg 497,210,538,295,2 566,211,610,312,0 601,218,640,332,0 529,201,574,302,2
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V001_I01527.jpg 499,206,539,295,2 565,213,609,312,0 601,218,640,332,0 531,201,578,302,2
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V001_I01531.jpg 499,207,539,294,2 565,213,608,312,0 601,218,640,332,0 532,201,579,302,2 148,208,168,244,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V001_I01547.jpg 495,209,538,289,2 564,215,607,311,0 601,218,640,332,0 529,201,573,302,2 166,210,186,246,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V001_I01573.jpg 563,218,606,311,0 485,210,528,290,2 601,218,640,332,0 524,201,565,302,2 197,210,217,246,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V001_I01597.jpg 562,219,606,311,0 482,211,526,293,2 601,218,640,332,0 524,201,564,302,2 225,213,245,249,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V001_I01605.jpg 562,219,606,311,0 483,213,524,294,2 601,218,640,332,0 524,201,565,302,2 234,214,254,250,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V001_I01667.jpg 562,219,606,311,0 488,215,529,298,2 601,218,640,332,0 518,202,569,303,2 299,209,321,247,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V001_I01693.jpg 562,219,606,311,0 484,218,526,299,2 601,218,640,332,0 515,205,566,305,2
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V001_I01699.jpg 562,219,606,311,0 483,216,526,298,2 601,218,640,332,0 514,205,565,306,2
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V001_I01737.jpg 562,219,606,311,0 484,210,531,300,2 601,218,640,332,0 515,206,565,306,2
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V001_I01759.jpg 562,219,606,311,0 484,212,532,305,2 601,218,640,332,0 515,206,565,306,2
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V001_I01765.jpg 562,219,606,311,0 484,212,532,304,2 601,218,640,332,0 513,207,563,307,2
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V001_I01781.jpg 562,219,606,311,0 483,211,531,300,2 601,218,640,332,0 508,211,558,309,2
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V001_I01849.jpg 485,215,533,299,2 601,218,640,332,0 560,215,604,311,0 509,215,560,316,2
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V001_I01851.jpg 485,215,533,299,2 601,218,640,332,0 560,214,604,311,0 509,215,560,318,2
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V001_I01855.jpg 487,215,533,299,2 599,218,640,332,0 560,214,604,312,0 510,215,561,320,2
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V001_I01869.jpg 495,215,534,300,2 574,212,621,331,0 515,214,565,327,2
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V001_I02075.jpg 420,209,444,263,2 386,216,412,274,0 437,210,457,261,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V001_I02095.jpg 434,220,472,312,0 498,203,533,284,0 479,207,514,290,2
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V001_I02101.jpg 465,220,513,351,0 525,210,571,300,0 505,216,545,302,2
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V001_I02575.jpg 427,210,452,273,0 446,213,466,278,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V001_I02587.jpg 452,210,483,289,0 480,219,509,303,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V001_I02591.jpg 467,209,501,299,0 493,222,525,311,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V001_I02899.jpg 367,215,398,280,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V001_I02919.jpg 394,202,429,289,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V001_I02941.jpg 458,214,510,353,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V001_I02949.jpg 504,214,561,385,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V001_I02955.jpg 544,211,616,423,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V001_I02993.jpg 414,218,436,275,0 397,212,422,268,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V001_I03021.jpg 441,227,476,311,0 410,217,438,284,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set04_V001_I03061.jpg 524,223,581,343,0 607,236,639,330,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I00281.jpg 553,218,582,288,0 587,215,616,276,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I00293.jpg 474,216,506,287,0 512,215,542,277,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I00315.jpg 365,213,396,286,0 404,213,437,279,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I00319.jpg 353,213,383,286,0 390,214,423,279,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I00371.jpg 316,213,349,295,0 353,210,393,303,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I00389.jpg 314,216,349,299,0 356,213,395,302,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I00393.jpg 312,217,347,301,0 355,215,395,302,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I00409.jpg 300,222,337,308,0 350,216,392,309,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I00435.jpg 253,205,298,319,0 314,216,359,313,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I00441.jpg 237,205,285,326,0 302,216,348,319,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I00467.jpg 156,214,214,363,0 232,219,287,358,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I00471.jpg 143,214,203,367,0 218,220,275,367,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I00483.jpg 107,212,172,378,0 172,220,235,382,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I00485.jpg 100,212,166,380,0 165,220,229,384,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I00501.jpg 48,212,121,392,0 125,218,197,397,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I00531.jpg 26,208,107,414,0 102,213,183,409,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I00541.jpg 34,211,116,417,0 111,213,193,409,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I00549.jpg 48,213,127,413,0 126,214,206,408,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I00569.jpg 94,219,167,396,0 173,218,246,402,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I00579.jpg 125,225,196,395,0 199,219,268,399,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I00615.jpg 113,214,193,405,0 189,220,267,417,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I00617.jpg 105,213,187,408,0 185,220,264,419,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I00631.jpg 35,210,129,439,0 129,219,214,441,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I00869.jpg 264,211,291,264,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I00883.jpg 286,213,317,269,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I00941.jpg 273,213,313,300,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I00947.jpg 249,209,290,301,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I00981.jpg 80,206,132,342,0 416,233,451,292,2
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I01101.jpg 575,218,607,299,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I01113.jpg 492,219,526,301,0 516,220,548,303,0 566,237,603,342,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I01115.jpg 480,220,513,300,0 504,221,535,301,0 556,237,595,344,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I01121.jpg 446,222,480,299,0 473,222,504,299,0 535,236,579,355,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I01135.jpg 390,219,426,301,0 424,219,456,302,0 535,244,593,403,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I01181.jpg 266,209,317,344,0 321,210,365,334,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I01195.jpg 214,206,275,361,0 279,212,334,353,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I01207.jpg 160,205,231,379,0 236,214,302,373,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I01239.jpg 19,219,117,487,0 178,211,233,252,0 118,221,145,280,0 103,218,127,279,0 144,208,168,262,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I01303.jpg 195,223,228,291,0 176,224,205,288,0 321,220,351,284,0 231,210,256,259,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I01321.jpg 247,222,278,292,0 232,225,262,293,0 354,223,382,286,0 281,210,305,260,0 296,219,336,259,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I01327.jpg 262,222,290,293,0 250,225,281,295,0 365,223,393,285,0 301,215,324,265,0 320,219,357,259,1
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I01357.jpg 321,223,352,302,0 304,225,333,303,0 397,225,426,293,0 350,215,375,270,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I01397.jpg 260,223,300,329,0 236,222,271,328,0 332,224,367,307,0 301,206,328,270,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I01401.jpg 243,225,285,336,0 222,224,261,337,0 319,224,354,309,0 290,207,318,273,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I01431.jpg 162,221,223,389,0 121,223,183,391,0 240,223,280,324,0 262,199,292,279,0 229,215,260,284,0 314,216,336,274,0 281,212,304,276,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I01457.jpg 94,238,178,480,0 35,231,114,486,0 188,221,237,351,0 252,206,284,285,0 227,216,261,293,0 316,221,341,289,0 288,211,313,285,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I01487.jpg 61,225,117,372,0 179,206,213,292,0 149,221,186,310,0 223,212,253,294,0 250,219,278,297,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I01503.jpg 39,229,98,386,0 168,205,203,293,0 136,218,175,319,0 214,213,247,299,0 243,219,273,300,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I01509.jpg 40,230,100,390,0 178,206,213,296,0 141,218,180,320,0 228,214,262,305,0 251,219,282,301,0 278,223,309,299,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I01519.jpg 72,235,135,397,0 204,210,240,301,0 165,220,206,322,0 258,214,294,313,0 266,219,298,305,0 308,223,340,307,0 293,221,321,307,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I01535.jpg 119,231,190,404,0 245,204,283,299,0 212,226,256,334,0 323,205,362,312,0 297,220,332,313,0 371,219,406,324,0 345,219,381,325,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I01547.jpg 143,233,216,416,0 270,206,309,303,0 228,230,275,347,0 369,212,403,315,0 312,226,351,327,0 420,220,464,349,0 389,220,432,348,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I01561.jpg 159,237,233,431,0 267,206,307,305,0 221,232,272,359,0 391,212,432,323,0 308,231,352,345,0 467,224,528,390,0 429,224,481,389,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I01569.jpg 165,238,240,438,0 263,206,304,306,0 197,235,249,371,0 402,212,445,329,0 296,232,344,355,0 505,228,574,420,0 455,227,516,421,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I01603.jpg 157,237,236,458,0 256,205,299,311,0 105,228,170,403,0 429,212,478,348,0 250,234,312,394,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I01613.jpg 138,236,219,463,0 245,205,290,313,0 73,231,143,415,0 423,212,473,352,0 230,235,296,405,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I01629.jpg 104,236,189,470,0 228,204,274,315,0 46,234,121,427,0 434,213,487,363,0 191,235,264,422,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I01673.jpg 127,245,221,500,0 477,210,540,391,0 61,238,153,483,0 170,236,228,399,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I01677.jpg 135,245,229,498,0 482,210,546,393,0 53,239,147,487,0 166,236,225,403,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I01727.jpg 158,243,252,484,0 533,212,611,438,0 60,256,138,461,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I01735.jpg 145,243,240,486,0 538,213,614,441,0 23,265,108,472,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I01737.jpg 141,243,236,487,0 540,214,615,442,0 14,267,100,474,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I01761.jpg 79,243,178,499,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I01873.jpg 174,243,242,428,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I02209.jpg 97,224,141,327,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I02213.jpg 92,216,143,326,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I02239.jpg 115,229,146,300,0 92,239,121,295,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I02251.jpg 119,215,152,290,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I02253.jpg 121,215,154,290,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I02263.jpg 133,218,168,296,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I02269.jpg 144,220,179,300,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I02313.jpg 558,201,592,282,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I02347.jpg 511,226,592,337,1 50,240,97,354,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I02369.jpg 393,255,460,386,0 9,251,50,333,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I02371.jpg 432,254,500,386,0 30,246,72,328,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I02379.jpg 137,241,179,324,0
+E:\peng\Multispectral\VOCdevkit\VOC2007\JPEGImages\lwir_set05_V000_I02399.jpg 392,236,434,319,0
